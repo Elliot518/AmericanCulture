@@ -6,3 +6,6 @@ Learn American Culture
 ## I. American Travel
 
 [1.1 New York City](Travel/NYC.md)
+
+[1.2 Grand Canyon National Park](Travel/GCNP.md)
+
