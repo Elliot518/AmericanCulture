@@ -18,4 +18,14 @@ Once you’ve seen it, no other natural phenomenon will quite compare.
 
 Vocabulary:
 
+- Grand Canyon(大峡谷)  /ˌɡrænd ˈkæn.jən/
 
+    >a very large canyon in the US state of Arizona, through which the Colorado River flows
+
+- incomprehensible(令人费解的)  /ɪnˌkɑːm.prəˈhen.sə.bəl/
+
+    >impossible or extremely difficult to understand
+
+- phenomenon(现象)  /fəˈnɑː.mə.nɑːn/
+
+    >something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting
