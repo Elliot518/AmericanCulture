@@ -29,3 +29,6 @@ Vocabulary:
 - phenomenon(现象)  /fəˈnɑː.mə.nɑːn/
 
     >something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting
+
+
+
